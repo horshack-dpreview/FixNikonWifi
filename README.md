@@ -11,7 +11,7 @@ This script must run in an Administrator command window because stopping and sta
 
 ## Installing
 
-Download the batch file by right-clicking on this link and saving to your system. To make it easier to launch the batch file you'll want to create a shortcut, that way you can configure it to run with the necessary Administrator privileges and minimized. Here's how to create the shortcut:
+Download the batch file by right-clicking on [this link](https://raw.githubusercontent.com/horshack-dpreview/FixNikonWifi/main/FixNikonWifi.cmd) and clicking "Save link as...". To make it easier to launch the batch file you'll want to create a shortcut, that way you can configure it to run with the necessary Administrator privileges and minimized. Here's how to create the shortcut:
 
 1. Right-click on the downloaded batch file and click "Create shortcut"
 2. Move the shortcut where you want to run it from, for example the desktop
